@@ -1,2 +1,5 @@
 target/
 releaseAndUpload.sh
+javaee7-essentials-archetype.iml
+.DS_Store/
+.idea/
